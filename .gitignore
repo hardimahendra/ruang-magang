@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+premium-audit.json
+
+.vercel
+.env*
